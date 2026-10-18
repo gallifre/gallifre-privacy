@@ -13,6 +13,8 @@ Welcome to the privacy policy hub for GalliFre apps.
 - [GSD Task Manager](gsd-task-manager-privacy.html)
 - [Habit Score Planner](habit-score-planner-privacy.html)
 - [Weather Tlaloc](weather-tlaloc-support-and-privacy.html)
+- [Super AI Workspace](super-ai-workspace-support-and-privacy.html)
+- [Super AI Workspace (简体中文)](super-ai-workspace-support-and-privacy-zh-Hans.html)
 
 ---
 
